@@ -441,7 +441,7 @@ class RPCServer {
 
     start() {
         return new Promise((resolve, reject) => {
-            fastify.listen({ port: this.PORT, host: 'localhost' }, (err, address) => {
+            fastify.listen({ port: this.PORT, host: '0.0.0.0' }, (err, address) => {
                 if (err) {
                     console.error("RPC Server Error:", err);
                     reject(err);
