@@ -1,11 +1,11 @@
 {
     "PORT": 5000,
     "RPC_PORT": 3000,
-    "PEERS": [],
-    "MY_ADDRESS": "ws://localhost:5000",
-    "PRIVATE_KEY": "7fe881c97670570beae5bb81a656e8e8c8a9e5d39d78b512915fb53a234d60a5",
+    "PEERS": ["https://62f82037-f982-49fc-bc8e-fd3a607e70e4-00-tle99euq4jp3.riker.replit.dev"],
+    "MY_ADDRESS": "https://ekhbc.onrender.com",
+    "PRIVATE_KEY": "87a2baeab9a5975eceddc4947833a150bda166ee4e09b97df30aba2d4ed51de9",
     "ENABLE_MINING": true,
     "ENABLE_LOGGING": false,
     "ENABLE_RPC": true,
-    "ENABLE_CHAIN_REQUEST": false
+    "ENABLE_CHAIN_REQUEST": true
 }
