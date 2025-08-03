@@ -1,7 +1,7 @@
 {
     "PORT": 5000,
     "RPC_PORT": 3000,
-    "PEERS": ["wss://62f82037-f982-49fc-bc8e-fd3a607e70e4-00-tle99euq4jp3.riker.replit.dev"],
+    "PEERS": ["wss://62f82037-f982-49fc-bc8e-fd3a607e70e4-00-tle99euq4jp3.riker.replit.dev:5000"],
     "MY_ADDRESS": "wss://ekhbc.onrender.com:5000",
     "PRIVATE_KEY": "87a2baeab9a5975eceddc4947833a150bda166ee4e09b97df30aba2d4ed51de9",
     "ENABLE_MINING": true,
